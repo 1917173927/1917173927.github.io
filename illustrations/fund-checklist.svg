@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
   <title id="title">买入基金前的五步检查</title>
   <desc id="description">依次核对资产类型、净值与份额、交易确认、费用结构、风险与计划；这是一份阅读顺序清单，不表示任何产品收益。</desc>
-  <rect width="1200" height="675" rx="32" fill="#101524"/>
-  <path d="M0 584 C250 485 410 690 675 578 S1030 536 1200 455 V675 H0Z" fill="#173047" opacity=".78"/>
-  <circle cx="1070" cy="94" r="145" fill="#286572" opacity=".16"/>
-  <text x="68" y="106" fill="#8ce6de" font-size="26" font-family="Arial, PingFang SC, sans-serif" letter-spacing="4">FIELD NOTES · 01</text>
-  <text x="68" y="170" fill="#f4f7f8" font-size="48" font-weight="700" font-family="Arial, PingFang SC, sans-serif">买入之前，先把问题问清楚</text>
-  <text x="70" y="216" fill="#afc3cc" font-size="25" font-family="Arial, PingFang SC, sans-serif">按文章顺序核对，不把过去收益当作答案</text>
+  <rect width="1200" height="675" rx="32" fill="#f6f6f7"/>
+  <path d="M0 584 C250 485 410 690 675 578 S1030 536 1200 455 V675 H0Z" fill="#e2e2e3" opacity=".78"/>
+  <circle cx="1070" cy="94" r="145" fill="#c2c2c4" opacity=".16"/>
+  <text x="68" y="106" fill="#3451b2" font-size="26" font-family="Arial, PingFang SC, sans-serif" letter-spacing="4">FIELD NOTES · 01</text>
+  <text x="68" y="170" fill="#3c3c43" font-size="48" font-weight="700" font-family="Arial, PingFang SC, sans-serif">买入之前，先把问题问清楚</text>
+  <text x="70" y="216" fill="#67676c" font-size="25" font-family="Arial, PingFang SC, sans-serif">按文章顺序核对，不把过去收益当作答案</text>
   <g font-family="Arial, PingFang SC, sans-serif" text-anchor="middle">
-    <g fill="#1a2637" stroke="#4e7582" stroke-width="2">
+    <g fill="#ffffff" stroke="#e2e2e3" stroke-width="2">
       <rect x="68" y="282" width="198" height="180" rx="22"/>
       <rect x="286" y="282" width="198" height="180" rx="22"/>
       <rect x="504" y="282" width="198" height="180" rx="22"/>
       <rect x="722" y="282" width="198" height="180" rx="22"/>
       <rect x="940" y="282" width="192" height="180" rx="22"/>
     </g>
-    <g fill="#8ce6de" font-size="28" font-weight="700">
+    <g fill="#3451b2" font-size="28" font-weight="700">
       <text x="167" y="332">01</text><text x="385" y="332">02</text><text x="603" y="332">03</text><text x="821" y="332">04</text><text x="1036" y="332">05</text>
     </g>
-    <g fill="#f4f7f8" font-size="28" font-weight="600">
+    <g fill="#3c3c43" font-size="28" font-weight="600">
       <text x="167" y="391">资产类型</text><text x="385" y="391">净值与份额</text><text x="603" y="391">交易确认</text><text x="821" y="391">费用结构</text><text x="1036" y="391">风险与计划</text>
     </g>
-    <g fill="#afc3cc" font-size="20">
+    <g fill="#67676c" font-size="20">
       <text x="167" y="431">投向什么</text><text x="385" y="431">如何计价</text><text x="603" y="431">何时到账</text><text x="821" y="431">哪些成本</text><text x="1036" y="431">能否承受</text>
     </g>
   </g>
-  <g fill="#8ce6de">
+  <g fill="#3451b2">
     <path d="m271 371 9 10-9 10z"/><path d="m489 371 9 10-9 10z"/><path d="m707 371 9 10-9 10z"/><path d="m925 371 9 10-9 10z"/>
   </g>
-  <text x="70" y="555" fill="#cfdee3" font-size="24" font-family="Arial, PingFang SC, sans-serif">先理解规则，再决定是否买入。</text>
-  <text x="70" y="600" fill="#91aab4" font-size="20" font-family="Arial, PingFang SC, sans-serif">示意图 · 非投资建议</text>
+  <text x="70" y="555" fill="#3c3c43" font-size="24" font-family="Arial, PingFang SC, sans-serif">先理解规则，再决定是否买入。</text>
+  <text x="70" y="600" fill="#67676c" font-size="20" font-family="Arial, PingFang SC, sans-serif">示意图 · 非投资建议</text>
 </svg>
