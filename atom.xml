@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>EnderCrystal</title>
+  <subtitle>绿色节能~</subtitle>
+  <id>https://www.endercrysta2.xyz/</id>
+  <link href="https://www.endercrysta2.xyz/" />
+  <link href="https://www.endercrysta2.xyz/atom.xml" rel="self" />
+  <updated>2026-05-14T02:50:21.000Z</updated>
+  <author>
+    <name>EnderCrystal</name>
+    <uri>https://www.endercrysta2.xyz/</uri>
+  </author>
+  <entry>
+    <title>韭菜的自我修养（一）</title>
+    <link href="https://www.endercrysta2.xyz/posts/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%88%E4%B8%80%EF%BC%89.html" />
+    <id>https://www.endercrysta2.xyz/posts/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%88%E4%B8%80%EF%BC%89.html</id>
+    <updated>2026-05-14T02:50:21.000Z</updated>
+    <published>2026-05-14T02:50:21.000Z</published>
+    <summary><![CDATA[基金入门术语、购买流程、费用结构和定投规则的个人学习笔记。]]></summary>
+    <content type="html"><![CDATA[<p>基金入门术语、购买流程、费用结构和定投规则的个人学习笔记。</p>]]></content>
+    <category term="学习" />
+    <category term="基金" />
+    <category term="理财" />
+    <category term="投资入门" />
+    <category term="定投" />
+  </entry>
+  <entry>
+    <title>多重积分学习自测</title>
+    <link href="https://www.endercrysta2.xyz/posts/%E5%A4%9A%E9%87%8D%E7%A7%AF%E5%88%86%E5%AD%A6%E4%B9%A0%E8%87%AA%E6%B5%8B.html" />
+    <id>https://www.endercrysta2.xyz/posts/%E5%A4%9A%E9%87%8D%E7%A7%AF%E5%88%86%E5%AD%A6%E4%B9%A0%E8%87%AA%E6%B5%8B.html</id>
+    <updated>2026-05-10T16:20:56.000Z</updated>
+    <published>2026-05-10T16:20:56.000Z</published>
+    <summary><![CDATA[梳理多重积分的核心概念、积分区域处理、常见换元方法与解题技巧。]]></summary>
+    <content type="html"><![CDATA[<p>梳理多重积分的核心概念、积分区域处理、常见换元方法与解题技巧。</p>]]></content>
+    <category term="学习" />
+    <category term="高等数学" />
+    <category term="多重积分" />
+    <category term="二重积分" />
+    <category term="三重积分" />
+    <category term="曲面积分" />
+  </entry>
+  <entry>
+    <title>How-to-Hexo-2</title>
+    <link href="https://www.endercrysta2.xyz/posts/How-to-Hexo-2.html" />
+    <id>https://www.endercrysta2.xyz/posts/How-to-Hexo-2.html</id>
+    <updated>2025-10-23T18:50:57.000Z</updated>
+    <published>2025-10-23T18:50:57.000Z</published>
+    <summary><![CDATA[记录 Butterfly 主题的基础配置方法，以及使用 OSS 托管图片资源的做法。]]></summary>
+    <content type="html"><![CDATA[<p>记录 Butterfly 主题的基础配置方法，以及使用 OSS 托管图片资源的做法。</p>]]></content>
+    <category term="技术" />
+    <category term="前端" />
+    <category term="Hexo" />
+    <category term="Butterfly" />
+  </entry>
+  <entry>
+    <title>How-to-Hexo-1</title>
+    <link href="https://www.endercrysta2.xyz/posts/How-to-Hexo-1.html" />
+    <id>https://www.endercrysta2.xyz/posts/How-to-Hexo-1.html</id>
+    <updated>2025-10-23T17:10:22.000Z</updated>
+    <published>2025-10-23T17:10:22.000Z</published>
+    <summary><![CDATA[介绍从基础依赖安装到主题接入，使用 Hexo 搭建个人博客的入门流程。]]></summary>
+    <content type="html"><![CDATA[<p>介绍从基础依赖安装到主题接入，使用 Hexo 搭建个人博客的入门流程。</p>]]></content>
+    <category term="技术" />
+    <category term="前端" />
+    <category term="Hexo" />
+  </entry>
+  <entry>
+    <title>My first blog</title>
+    <link href="https://www.endercrysta2.xyz/posts/MyFirstBlog.html" />
+    <id>https://www.endercrysta2.xyz/posts/MyFirstBlog.html</id>
+    <updated>2025-10-19T07:16:59.000Z</updated>
+    <published>2025-10-19T07:16:59.000Z</published>
+    <summary><![CDATA[记录搭建个人博客的初衷，以及希望长期写作和持续成长的想法。]]></summary>
+    <content type="html"><![CDATA[<p>记录搭建个人博客的初衷，以及希望长期写作和持续成长的想法。</p>]]></content>
+    <category term="杂谈" />
+  </entry>
+</feed>
